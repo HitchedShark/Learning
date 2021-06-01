@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mali\\source\\repos\\SZTF2_NagyHazi\\SZTF2_NagyHazi\\SZTF2_NagyHazi.csproj",
+      "projectUniqueName": "C:\\Users\\Mali\\Work\\repo\\SZTF2_NagyHazi\\SZTF2_NagyHazi\\SZTF2_NagyHazi.csproj",
       "projectName": "SZTF2_NagyHazi",
-      "projectPath": "C:\\Users\\Mali\\source\\repos\\SZTF2_NagyHazi\\SZTF2_NagyHazi\\SZTF2_NagyHazi.csproj",
+      "projectPath": "C:\\Users\\Mali\\Work\\repo\\SZTF2_NagyHazi\\SZTF2_NagyHazi\\SZTF2_NagyHazi.csproj",
       "packagesPath": "C:\\Users\\Mali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mali\\source\\repos\\SZTF2_NagyHazi\\SZTF2_NagyHazi\\obj\\",
+      "outputPath": "C:\\Users\\Mali\\Work\\repo\\SZTF2_NagyHazi\\SZTF2_NagyHazi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

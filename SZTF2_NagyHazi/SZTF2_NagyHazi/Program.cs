@@ -67,7 +67,7 @@ namespace SZTF2_NagyHazi
             Webshop webshop = new Webshop();
             webshop.Init();
            
-            Console.WriteLine("Please enter your budget: ");
+            Console.WriteLine("Please enter your Budget: ");
             CommandList();
             string[] data = System.IO.File.ReadAllLines(@"C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\bin\Debug\netcoreapp3.1\commands.txt");
             webshop.SetBudget(Convert.ToInt32(data[0]));
