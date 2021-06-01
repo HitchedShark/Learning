@@ -1,0 +1,12 @@
+100000
+List
+Budget
+Offer
+Add:Computer:20000:15:10
+Add:Batbus:75000:60:Gas
+Buy:Batbus
+Addmoney:50000
+Delete:Computer
+Purchased
+List
+Exit

@@ -1,0 +1,17 @@
+A commands fájl adja a bemenetet a programnak.
+Az első sora mindig a Batman költségvetését tartalmazza, ennek szának kell lennie
+A második sortól kezdve parancsokat fogad a program, egy sor egy parancsnak felel meg
+A parancsokat pontosan kell beírni, amelyik paranycsank több paramétere van ott a paramétereket ":"-al kell elválasztani
+Lehetséges parancsok és formátumuk:
+	List -> Kilistázza a webshop termékeit
+	Budget -> Kiírja az aktuális költségvetést
+	Ha járművet szeretnénk felvenni:
+	Add:név:ár:hasznosság:üzemanyagtípus -> Felveszünk a webshopba egy járművet a megadott értékekkel
+	Ha eszközt:
+	Add:név:ár:hasznosság:súly -> Felveszünk a webshopba egy eszközt a megadott értékekkel
+	Delete:név -> Az adott nevű terméket kitöröljük a webshopból
+	Offer -> Megkapjuk azoknak az termékeknek a listáját amik beleférnek a költségvetésbe és az össz- hasznosságuk a legnagyobb
+	Buy:név -> Megvesszük az adott nevű terméket a webshopból
+	Addmoney:mennyiség -> A megadott mennyiséggel bővíti a költségvetést
+	Purchased -> Kislistázza a megvett termékeket
+	Exit -> Kilép

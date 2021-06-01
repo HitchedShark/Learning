@@ -1,0 +1,13 @@
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\bin\Debug\netcoreapp3.1\SZTF2_NagyHazi.exe
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\bin\Debug\netcoreapp3.1\SZTF2_NagyHazi.deps.json
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\bin\Debug\netcoreapp3.1\SZTF2_NagyHazi.runtimeconfig.json
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\bin\Debug\netcoreapp3.1\SZTF2_NagyHazi.runtimeconfig.dev.json
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\bin\Debug\netcoreapp3.1\SZTF2_NagyHazi.dll
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\bin\Debug\netcoreapp3.1\SZTF2_NagyHazi.pdb
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\obj\Debug\netcoreapp3.1\SZTF2_NagyHazi.csprojAssemblyReference.cache
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\obj\Debug\netcoreapp3.1\SZTF2_NagyHazi.AssemblyInfoInputs.cache
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\obj\Debug\netcoreapp3.1\SZTF2_NagyHazi.AssemblyInfo.cs
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\obj\Debug\netcoreapp3.1\SZTF2_NagyHazi.csproj.CoreCompileInputs.cache
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\obj\Debug\netcoreapp3.1\SZTF2_NagyHazi.dll
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\obj\Debug\netcoreapp3.1\SZTF2_NagyHazi.pdb
+C:\Users\Mali\source\repos\SZTF2_NagyHazi\SZTF2_NagyHazi\obj\Debug\netcoreapp3.1\SZTF2_NagyHazi.genruntimeconfig.cache
